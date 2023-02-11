@@ -13,7 +13,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
      },
        "addons": [
@@ -42,7 +42,7 @@
         },
         "SUDO": {
             "description": "sudo ids here.",
-            "value": "eco",
+            "value": "",
             "required": true
         }
     }
