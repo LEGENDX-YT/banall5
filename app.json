@@ -42,7 +42,7 @@
         },
         "SUDO": {
             "description": "sudo ids here.",
-            "value": "",
+            "value": "eco",
             "required": true
         }
     }
